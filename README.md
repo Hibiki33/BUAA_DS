@@ -1,2 +1,2 @@
 # BUAA_DS
-Data Structure of BUAA
+Data Structures of BUAA
